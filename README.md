@@ -1,1 +1,1 @@
-live: https://landing-page-tailwind-project.netlify.app/
+live: https://landing-page-tailwind-a-digital.netlify.app/
